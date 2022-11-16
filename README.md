@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roshan</h1>
-<h3 align="center">A passionate software developer</h3>
+<h3 align="center">A passionate software developer and an avid reader</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rshn1994&label=Profile%20views&color=0e75b6&style=flat" alt="rshn1994" /> </p>
 
@@ -7,10 +7,15 @@
 
 - 🌱 I’m currently learning **Go, Rust and Julia**
 
+- 👨‍💻 All of my projects are available at [https://rshn1994.github.io/](https://rshn1994.github.io/)
+
 - 📫 How to reach me **shenoy.roshan@outlook.com**
+
+- 📄 Know about my experiences [https://rshn1994.github.io/](https://rshn1994.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/linkedin.com/in/shenoy-roshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/shenoy-roshan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -21,4 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rshn1994&show_icons=true&locale=en" alt="rshn1994" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rshn1994&" alt="rshn1994" /></p>
+
 
