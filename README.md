@@ -11,11 +11,7 @@
 
 - 📫 How to reach me **shenoy.roshan@outlook.com**
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
-
-- ⚡ Fun fact: I use tabs over spaces  
-
-- 📄 Know about my experiences [https://rshn1994.github.io/](https://rshn1994.github.io/)
+- ⚡ Fun fact: I like to cook and explore different cuisines 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
